@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">PeopleMvvmExample</string>
+  <string name="default_loading_people">Press the button to load people!</string>
+</resources>
